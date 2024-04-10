@@ -2529,7 +2529,7 @@
 			(uuid "d661ad80-80d4-4d0b-9327-46b81521f899")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR043")
 					(unit 1)
@@ -2602,7 +2602,7 @@
 			(uuid "a58b451a-7e4c-465f-8926-b43f52e796ad")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D12")
 					(unit 1)
@@ -2668,7 +2668,7 @@
 			(uuid "0d840d18-c1e3-4666-8e72-ec22015bc872")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR040")
 					(unit 1)
@@ -2741,7 +2741,7 @@
 			(uuid "ed7dd855-fc43-4bc0-86b5-d540cb0c0335")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D9")
 					(unit 1)
@@ -2808,7 +2808,7 @@
 			(uuid "ec6f7c34-525d-494b-9efe-f0b2251cb46b")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R32")
 					(unit 1)
@@ -2875,7 +2875,7 @@
 			(uuid "08e79162-7608-45a2-9a08-a5c42f88b888")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR041")
 					(unit 1)
@@ -2942,7 +2942,7 @@
 			(uuid "ae4bfb5b-d237-4838-8a06-f007b9ac487d")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R20")
 					(unit 1)
@@ -3009,7 +3009,7 @@
 			(uuid "dfa33800-ebae-4c0e-97bf-403a8b6c9954")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR049")
 					(unit 1)
@@ -3076,7 +3076,7 @@
 			(uuid "9961f374-6cc3-4274-a35f-60ddf811d68f")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R21")
 					(unit 1)
@@ -3142,7 +3142,7 @@
 			(uuid "9adabf13-2961-4b6d-b428-8e160c159ca4")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR028")
 					(unit 1)
@@ -3209,7 +3209,7 @@
 			(uuid "07f27c57-c7f8-4caf-b164-287a4df090d5")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR045")
 					(unit 1)
@@ -3307,7 +3307,7 @@
 			(uuid "4527a298-58a8-42f0-9813-88daf87423e5")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "J13")
 					(unit 1)
@@ -3377,7 +3377,7 @@
 			(uuid "72d791af-136c-4b0d-a748-1c748271a7bc")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "C16")
 					(unit 1)
@@ -3443,7 +3443,7 @@
 			(uuid "91746207-6dbd-4acb-8390-df508a3c6dab")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR030")
 					(unit 1)
@@ -3510,7 +3510,7 @@
 			(uuid "a2432e6f-32f1-4510-8172-4be79cc9db9a")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR051")
 					(unit 1)
@@ -3576,7 +3576,7 @@
 			(uuid "1425c1a3-3e9a-4caf-ac7d-2ffa0dc67f30")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR046")
 					(unit 1)
@@ -3649,7 +3649,7 @@
 			(uuid "90952ba4-ea31-4680-8032-a2e65718d2f1")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D8")
 					(unit 1)
@@ -3716,7 +3716,7 @@
 			(uuid "a24d226c-d5fa-4a9e-8e80-ccfa65c69465")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R29")
 					(unit 1)
@@ -3783,7 +3783,7 @@
 			(uuid "dd512b41-6a32-4075-b5fa-72253715e01e")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R25")
 					(unit 1)
@@ -3850,7 +3850,7 @@
 			(uuid "4065f56a-7424-418f-9f90-e40612bcddc2")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R31")
 					(unit 1)
@@ -3916,7 +3916,7 @@
 			(uuid "752b4ea4-a53c-481f-b687-65f451a34a27")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR032")
 					(unit 1)
@@ -3983,7 +3983,7 @@
 			(uuid "b366d2b6-df88-4b46-813b-6f5e6f69377a")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR029")
 					(unit 1)
@@ -4050,7 +4050,7 @@
 			(uuid "d8f8139c-5bf1-436d-8125-06ba6334e79e")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR037")
 					(unit 1)
@@ -4116,7 +4116,7 @@
 			(uuid "d81df32e-3a86-438e-85f9-670456f0ab19")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR050")
 					(unit 1)
@@ -4182,7 +4182,7 @@
 			(uuid "96bc189c-537a-4bfa-b435-a9aabe3d8466")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR036")
 					(unit 1)
@@ -4255,7 +4255,7 @@
 			(uuid "76b659f0-0fac-43bb-8a78-327d82ea5f8c")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D5")
 					(unit 1)
@@ -4322,7 +4322,7 @@
 			(uuid "7607022e-3927-47d2-a72d-dcba49d3dff6")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R26")
 					(unit 1)
@@ -4395,7 +4395,7 @@
 			(uuid "2743c0fd-d80f-4ad3-a688-1abdc26e8976")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D11")
 					(unit 1)
@@ -4461,7 +4461,7 @@
 			(uuid "fc0e9461-2637-487f-9306-11c7d6d9760e")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR038")
 					(unit 1)
@@ -4527,7 +4527,7 @@
 			(uuid "6efb69bd-9924-4aec-a602-fe093b101339")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR044")
 					(unit 1)
@@ -4600,7 +4600,7 @@
 			(uuid "6b6672d7-ecdb-4714-bbe4-ac7299990836")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D6")
 					(unit 1)
@@ -4667,7 +4667,7 @@
 			(uuid "e4f24483-da30-4ff2-9c43-d759e349e583")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R30")
 					(unit 1)
@@ -4734,7 +4734,7 @@
 			(uuid "64e8b0d0-0028-4c8e-81d1-ebb92b7fbfe6")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R22")
 					(unit 1)
@@ -4801,7 +4801,7 @@
 			(uuid "2c5dc25e-c057-4b40-9ec5-65e4b9d73b86")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR033")
 					(unit 1)
@@ -4868,7 +4868,7 @@
 			(uuid "7a9c379c-926c-4206-9073-818e121c4872")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR031")
 					(unit 1)
@@ -4935,7 +4935,7 @@
 			(uuid "5798deda-b90f-4923-b71d-cf4baec4e1c3")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R23")
 					(unit 1)
@@ -5008,7 +5008,7 @@
 			(uuid "4afc517b-de16-4114-b79e-73af8a361f85")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D14")
 					(unit 1)
@@ -5074,7 +5074,7 @@
 			(uuid "e911c882-9b48-4cde-a362-560c41cca8ab")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR048")
 					(unit 1)
@@ -5141,7 +5141,7 @@
 			(uuid "26d8c636-2903-47be-978c-3336fddef6a3")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R28")
 					(unit 1)
@@ -5208,7 +5208,7 @@
 			(uuid "4b8a7d7b-bc1c-46eb-b980-03b89f90ff68")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R24")
 					(unit 1)
@@ -5274,7 +5274,7 @@
 			(uuid "2d70d77b-8185-4d58-9812-061f4ebcee03")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR034")
 					(unit 1)
@@ -5340,7 +5340,7 @@
 			(uuid "536ce829-76eb-47cc-9c29-32e177a255df")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR042")
 					(unit 1)
@@ -5407,7 +5407,7 @@
 			(uuid "0aa03e61-3f9d-45e1-b69a-0c15a0e4c50d")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R33")
 					(unit 1)
@@ -5480,7 +5480,7 @@
 			(uuid "e67c3f58-37e3-4f71-bb18-702849b5c012")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D10")
 					(unit 1)
@@ -5547,7 +5547,7 @@
 			(uuid "3e30340b-bc7e-4bb8-acc7-c8887483b1ce")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R17")
 					(unit 1)
@@ -5614,7 +5614,7 @@
 			(uuid "c65cbb27-bae7-4144-ab59-2376ec9bfba8")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R35")
 					(unit 1)
@@ -5681,7 +5681,7 @@
 			(uuid "2bc68e5a-6ef1-4e89-97d4-f7169ca23ea7")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR027")
 					(unit 1)
@@ -5748,7 +5748,7 @@
 			(uuid "402f17c1-7641-4f21-ad50-10cb73d4205c")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R16")
 					(unit 1)
@@ -5815,7 +5815,7 @@
 			(uuid "ded00843-69d3-4785-8a0e-43fdf0f5eed6")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR047")
 					(unit 1)
@@ -5882,7 +5882,7 @@
 			(uuid "ebef5325-b9ee-42c4-8224-19f3ff1719c8")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R27")
 					(unit 1)
@@ -5949,7 +5949,7 @@
 			(uuid "35335885-6a84-4c62-a609-9c0ef54aa341")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR035")
 					(unit 1)
@@ -6016,7 +6016,7 @@
 			(uuid "7737a0d8-b4a5-4ec7-8b75-d668e9f98786")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R18")
 					(unit 1)
@@ -6083,7 +6083,7 @@
 			(uuid "646767f8-31ec-47fe-8177-661f410852f3")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R34")
 					(unit 1)
@@ -6150,7 +6150,7 @@
 			(uuid "52b41586-551b-4ac8-816b-78a26ae46a6a")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "R19")
 					(unit 1)
@@ -6223,7 +6223,7 @@
 			(uuid "cd144d72-a407-499b-aff3-d75044292c9d")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D13")
 					(unit 1)
@@ -6290,7 +6290,7 @@
 			(uuid "4906d6c6-d743-4c29-a432-36ee428b64ee")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "#PWR039")
 					(unit 1)
@@ -6363,7 +6363,7 @@
 			(uuid "2c477b6f-97bd-4ac5-98cb-ea57f9a1c8ed")
 		)
 		(instances
-			(project "TMC2240Breakout"
+			(project "TMC2240_RP2040"
 				(path "/d0dab8ab-fa60-4f71-bcc6-8b75414f488b/ea56f295-01cc-4be4-a2d5-2a0f48a51b3f"
 					(reference "D7")
 					(unit 1)
