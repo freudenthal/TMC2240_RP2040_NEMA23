@@ -29508,6 +29508,270 @@
 		(layer "Edge.Cuts")
 		(uuid "fed20e11-2432-4201-b8fe-6be92953dc27")
 	)
+	(gr_text "GND"
+		(at 94.55 139.5 -90)
+		(layer "B.SilkS")
+		(uuid "06de83fe-a962-4a0f-80f5-88bfc5777da4")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3V3"
+		(at 154.4 142.75 -90)
+		(layer "B.SilkS")
+		(uuid "09070e9f-e966-4e4c-9696-f97244cb0577")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "TX"
+		(at 94.75 144.1 -90)
+		(layer "B.SilkS")
+		(uuid "15948838-1570-4548-9c66-958e867ea2d2")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 129.25 164.8 -90)
+		(layer "B.SilkS")
+		(uuid "183f07c0-b03c-47c5-aac9-49d54278bd97")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "IO"
+		(at 154.4 137.4 -90)
+		(layer "B.SilkS")
+		(uuid "2717bb98-3534-4f1e-9402-f6f6a43ae1b6")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "LIMITS"
+		(at 150.3 135.35 -90)
+		(layer "B.SilkS")
+		(uuid "2a47ffb6-a643-4b77-9160-a31ce874da2b")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RX"
+		(at 94.65 141.7 -90)
+		(layer "B.SilkS")
+		(uuid "54b45db8-7942-4e80-8310-f37f8c92cd88")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "IO"
+		(at 154.5 135.1 -90)
+		(layer "B.SilkS")
+		(uuid "5d3b84e6-5342-4863-95a5-cb1b0f70d83a")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "IO"
+		(at 154.4 140 -90)
+		(layer "B.SilkS")
+		(uuid "6c070496-334c-4595-8224-21f90e36d9c4")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RS232_{OUT}"
+		(at 98.95 132.75 -90)
+		(layer "B.SilkS")
+		(uuid "74a7be56-eaad-4cc0-9ea0-6f57c596f0b4")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "5V_{IN}"
+		(at 94.8 147.3 -90)
+		(layer "B.SilkS")
+		(uuid "780424f0-96eb-4eed-b8e7-2bfd4824a3bc")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "V_{MOTOR}"
+		(at 135.35 166.05 -0)
+		(layer "B.SilkS")
+		(uuid "8520ca18-3cbc-4387-b72f-78d9f5a8042a")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "5V_{OUT}"
+		(at 94.65 135.45 -90)
+		(layer "B.SilkS")
+		(uuid "86c92068-0d09-4e96-a496-cde2dea3d9d6")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+V"
+		(at 136.3 164.2 -90)
+		(layer "B.SilkS")
+		(uuid "a15dfebe-26a6-4870-9d15-17a65e5364db")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "TX"
+		(at 94.5 129.1 -90)
+		(layer "B.SilkS")
+		(uuid "a8ad8fbc-88fd-4e0b-83c2-2cc89a81eab1")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RS232_{IN}"
+		(at 98.85 145.35 -90)
+		(layer "B.SilkS")
+		(uuid "ab05f2b0-fe5b-426b-95af-3e4dfe40cde7")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MOTOR"
+		(at 122.75 166.3 -0)
+		(layer "B.SilkS")
+		(uuid "ab4c49c7-ec5f-4b6b-a5b9-e87786f2f613")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RP2040 Stepper Controller V1.0\nTMC2240 stepper driver\nMAX3232 RS232 in/out\nAS5048 encoder"
+		(at 109.45 123.6 90)
+		(layer "B.SilkS")
+		(uuid "b85e2b34-df10-4f6e-8de4-8cdb3f4e92d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "RX"
+		(at 94.5 131.9 -90)
+		(layer "B.SilkS")
+		(uuid "ce4f65dd-1738-4b0e-84cd-4a35bb62b68c")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 94.75 126.9 -90)
+		(layer "B.SilkS")
+		(uuid "e143b16e-37c5-42d2-98c2-2ce0f6812dfa")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 155.3 143.35 90)
+		(layer "B.SilkS")
+		(uuid "e9d614ee-72f0-44f7-a478-150b2ea5088e")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "AI"
+		(at 154.55 132.25 -90)
+		(layer "B.SilkS")
+		(uuid "ea69bd89-cfb6-41e0-a7c4-557e9be60f47")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "BOOT"
 		(at 138.5 119.2 90)
 		(layer "F.SilkS")
